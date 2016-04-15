@@ -1,3 +1,4 @@
+#include "HashTable"
 
 class ArrayHashTable: public HashTable
 {
