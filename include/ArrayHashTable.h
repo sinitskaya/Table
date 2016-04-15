@@ -1,4 +1,4 @@
-#include "HashTable"
+#include "HashTable.h"
 
 class ArrayHashTable: public HashTable
 {
