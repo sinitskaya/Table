@@ -1,3 +1,4 @@
+#include "ScanTable.h"
 
 class SortTable: public ScanTable
 {
