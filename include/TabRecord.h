@@ -1,5 +1,6 @@
-
+#include <iostream>
 typedef int TData;
+using namespace std;
 
 class TabRecord
 {

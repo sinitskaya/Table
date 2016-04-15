@@ -1,4 +1,5 @@
 
+#include "TabRecord.h"
 
 class Table
 {

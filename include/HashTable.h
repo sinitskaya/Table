@@ -1,3 +1,4 @@
+#include "Table.h"
 
 class HashTable: public Table
 {
